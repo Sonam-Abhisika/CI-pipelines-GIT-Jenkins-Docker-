@@ -1,11 +1,7 @@
-# CI-pipelines-GIT-Jenkins-Docker-
-This repo consists of my hand-on practice with Jenkins-Docker (bootcamp)
+# CI-pipelines-GIT-Jenkins-Docker
+This repo consists of my hand-on practice with Jenkins-Docker
 
-## Supporting Courses and Builder's Community
-
-  * If you are looking for a structured course with step by step learning enroll into [Ultimate Jenkins Bootcamp by School of Devops.](https://www.udemy.com/course/ultimate-jenkins-bootcamp-by-school-of-devops/?referralCode=BAC80386E38F767AC155).
-  * Join [Devops Builders Community](https://bit.ly/4fHywt0) to connect with fellow builders.
-  * Subscribe to [Devops.Tube](https://devops.tube/) for devops learning. 
+**_Process:_**
 
 ## Setup Jenkins with Docker
 
